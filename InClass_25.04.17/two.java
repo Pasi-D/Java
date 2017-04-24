@@ -5,6 +5,7 @@ public class two {
 	
 	public static void main(String[] args) throws IOException{
 		try{
+			System.out.println("Start typing the inputs seperated by commas and make sure not to put , at the end of each line \n-----------------------------------------------------------------------------------------------");
 			BufferedReader stdin = new BufferedReader(new InputStreamReader(System.in)); 
 			String line;
 			int[] list = new int[3];
