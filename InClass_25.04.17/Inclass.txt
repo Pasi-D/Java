@@ -1,0 +1,25 @@
+1 ) Write a complete Java program which prints all the square numbers less than the given number n
+	(n > 0). Your program should prompt the user to enter a number which is greater than zero. If the
+	user enters a negative number an appropriate error should be thrown. Otherwise, the square
+	numbers less than the given number n should be displayed on the console.
+	Eg: java SquareNumGenerator
+	Enter a number : 10
+	Square Numbers: (< 10) 1, 4, 9
+	(20 marks)
+2) Write a Java code to find the minimum and maximum value from the 2D array mentioned below
+	2, 5, 3,
+	4, 6, 1,
+	8, 7, 13
+	(20 marks)
+3) Write an algorithm to find the first non-repeated character in a string. Your output should be
+	displayed as follows.
+	The first non-repeated character in the string “abcdab” is “c”.
+	(30 marks)
+4) Write a Java program to read the following input file and select the prime numbers in each line
+and write those prime numbers to an output file.
+	I nput.txt
+	20, 21, 29, 1, 5
+	19, 15, 11, 2, 9
+	41, 51, 3, 65, 7
+	13, 17, 3, 14, 9
+	(30 marks)
